@@ -11,6 +11,10 @@ In this project you will use a number of new or recently introduced techniques a
 * Global variables
 * Random number generation
 
+## We are not using mimir
+
+This project is intended to be done using `xcode` or `Visual Studio`.
+
 ## Review
 
 ### Arrays and vectors
@@ -121,7 +125,7 @@ Each chooses one value from an array of predefined values at random.
 ### `ChooseRace()`
 
 ```c++
-ChooseRace()
+string ChooseRace();
 ```
 
 can return one of:
@@ -135,7 +139,7 @@ can return one of:
 ### `ChooseAlignment()`
 
 ```c++
-ChooseAlignment()
+string ChooseAlignment();
 ```
 
 can return one of:
@@ -147,7 +151,7 @@ can return one of:
 ### `ChooseBehavior()`
 
 ```c++
-ChooseBehavior()
+string ChooseBehavior();
 ```
 
 can return one of:
@@ -313,6 +317,10 @@ You will receive thirty points off if your code has an infinite loop or crashes.
 
 If you have run afoul of none-of-the-above, you receive 100 percent.
 
+## Starter Code
+
+[STARTER CODE](http://www.mediafire.com/file/xrpm8uoh171300e/main.cpp/file)
+
 ## Postscript
 
 Here is Hector being Horrible:
@@ -320,4 +328,3 @@ Here is Hector being Horrible:
 
 Here is Murray being Furry after eating Curry:
 ![Murray](./murray.jpg)
-

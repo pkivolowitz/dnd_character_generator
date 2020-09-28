@@ -55,6 +55,10 @@ int main() {
 		the seed value is 0, use time(). If the value 
 		is not 0, use IT as the seed.
 
+		If you use cin to get the seed value, remember
+		to use cin.ignore() before using getline(). See
+		the README.md.
+
 		All your code goes below. Remember that your
 		program is supposed to ask for character names
 		over and over until the user enters 'quit'.
