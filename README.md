@@ -319,7 +319,7 @@ If you have run afoul of none-of-the-above, you receive 100 percent.
 
 ## Starter Code
 
-[STARTER CODE](http://www.mediafire.com/file/xrpm8uoh171300e/main.cpp/file)
+[STARTER CODE](http://www.mediafire.com/file/9fasyo8rhr1e9o1/main.cpp/file)
 
 ## Postscript
 
